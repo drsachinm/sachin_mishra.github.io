@@ -1,6 +1,4 @@
 # sachin_mishra.github.io
-My first repository on GitHub
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
